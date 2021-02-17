@@ -1,5 +1,7 @@
 # chenruiRIP.github.io
 
+## [陈睿上坟终端2.0](chenruiRIP.github.io)
+
 ## [陳睿上墳終端2.0](chenruiRIP.github.io)
 
 仿自“[学高为师，身正为范 —— 永远怀念白会娟老师](https://baihuijuan.rip/)”
